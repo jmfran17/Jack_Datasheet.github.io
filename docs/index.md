@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 
-## Hi, I'm Jack
+## Hi, I'm Jack :0
 
 Below me is a bunch of Latin gibberish.
 
@@ -14,7 +14,7 @@ Below me is a bunch of Latin gibberish.
 - Has in tonitribus tenebrae Romane mirantum resupina
 - Figuras et dextram
 
-## Esse quoque sedem plena nunc iecur
+## Stuff
 
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
 mea. Nec tamen quae gravem, potens, [cognoscendo
